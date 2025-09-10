@@ -158,7 +158,21 @@
 				"J:/UnrealEngine/projects/drummerbot_test/Content/models/kick_mat_Base_Color.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/B/LZ/STD9PMP0FE0B61VS2F2WIR.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/E/TR/H7V4AD8YCZTN3I8BWUB40X.uasset",
-				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/B/DU/6J5VENQSD4NY0QAP9XJX2O.uasset"
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/B/DU/6J5VENQSD4NY0QAP9XJX2O.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/blueprints/BP_Drum.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/audio/cymbal.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/cymbal.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/cymbalTex.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/cymbalTex1.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/hihat.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/hihatMat.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/hihatTex.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/audio/hihat_closed.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/audio/kick.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/audio/snare.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snare.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snareMat.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snareTex.uasset"
 			]
 		}
 	]
