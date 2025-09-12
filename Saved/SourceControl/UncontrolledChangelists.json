@@ -172,7 +172,15 @@
 				"J:/UnrealEngine/projects/drummerbot_test/Content/audio/snare.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snare.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snareMat.uasset",
-				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snareTex.uasset"
+				"J:/UnrealEngine/projects/drummerbot_test/Content/models/snareTex.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/A/RS/2KYF5NWKFE5BAZBQ31ZHL8.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/2/Z7/LVB00DLF051PQEONSN14ZU.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/0/8V/S8XVBH6QAE3FOD8KI8VS7O.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/8/6Z/4YRL8LLPBEPJC83PPBPOV3.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IA_PlayKick.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IMC_Drums.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/blueprints/BP_DrumControllerPawn.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/9/RU/TD8NX6XCG5GRQ1V7V2DGNL.uasset"
 			]
 		}
 	]
