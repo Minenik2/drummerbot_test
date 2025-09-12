@@ -180,7 +180,11 @@
 				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IA_PlayKick.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IMC_Drums.uasset",
 				"J:/UnrealEngine/projects/drummerbot_test/Content/blueprints/BP_DrumControllerPawn.uasset",
-				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/9/RU/TD8NX6XCG5GRQ1V7V2DGNL.uasset"
+				"J:/UnrealEngine/projects/drummerbot_test/Content/__ExternalActors__/test/9/RU/TD8NX6XCG5GRQ1V7V2DGNL.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/blueprints/BP_DrumController.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IA_PlayCymbal.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IA_PlayHiHat.uasset",
+				"J:/UnrealEngine/projects/drummerbot_test/Content/input/IA_PlaySnare.uasset"
 			]
 		}
 	]
