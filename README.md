@@ -4,8 +4,8 @@ A prototype of a drummer bot in unreal engine. Currently very barebone functiona
 Drum models are made by me in blender and imported into unreal as FBX.
 
 ### Features
-Pressing ASDF buttons to trigger kick/snare/cymbal/hi-hat
-When the drum is triggered it plays an animation scaling itself up and down as feedback
+- Pressing ASDF buttons to trigger kick/snare/cymbal/hi-hat
+- When the drum is triggered it plays an animation scaling itself up and down as feedback
   - It also plays it's corresponding .wav sound
 
 ### Currently working on
