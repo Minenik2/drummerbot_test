@@ -1,5 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -12,16 +10,16 @@ struct FMIDIEvent
 	GENERATED_BODY()
 
 	UPROPERTY(BlueprintReadOnly)
-	int32 DeltaTime;
+	float TimeSec; // When to play (seconds from start)
 
 	UPROPERTY(BlueprintReadOnly)
 	uint8 StatusByte;
 
 	UPROPERTY(BlueprintReadOnly)
-	uint8 Data1;
+	uint8 Data1; // Note number
 
 	UPROPERTY(BlueprintReadOnly)
-	uint8 Data2;
+	uint8 Data2; // Velocity
 };
 
 UCLASS()
@@ -30,26 +28,42 @@ class DRUMMERBOT_TEST_API AMIDI_Manager : public AActor
 	GENERATED_BODY()
 
 public:
-	// Sets default values for this actor's properties
 	AMIDI_Manager();
 
 protected:
-	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:
-	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	// Path to the MIDI file (set in details panel in editor)
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MIDI")
 	FString MIDIFilePath;
 
-	// Parsed MIDI events
 	UPROPERTY(BlueprintReadOnly, Category = "MIDI")
 	TArray<FMIDIEvent> MIDIEvents;
 
-	// Blueprint-callable function to load and parse MIDI
 	UFUNCTION(BlueprintCallable, Category = "MIDI")
 	void LoadMIDI();
+
+	UFUNCTION(BlueprintCallable, Category = "MIDI")
+	void StartPlayback();
+
+	UFUNCTION(BlueprintCallable, Category = "MIDI")
+	void StopPlayback();
+
+	// Called from C++ when a Note On is reached
+	UFUNCTION(BlueprintImplementableEvent, Category = "MIDI")
+	void OnNoteOn(int32 Note, int32 Velocity);
+
+	// Called from C++ when a Note Off is reached
+	UFUNCTION(BlueprintImplementableEvent, Category = "MIDI")
+	void OnNoteOff(int32 Note);
+
+private:
+	bool bIsPlaying;
+	float PlaybackTime;
+	int32 CurrentEventIndex;
+
+	void ParseTrack(const TArray<uint8> &Data, int32 StartIndex, int32 TrackLength, int32 Division);
+	int32 ReadVariableLength(const TArray<uint8> &Data, int32 &Index);
 };
