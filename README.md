@@ -14,7 +14,7 @@ A midi feature to be able to import and play midi files
 ### Using
 - Unreal engine 5.6
   - [Enhanced Input for keyboard implementation](https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine)
-  - [MIDI Device Support for midi implementation](https://dev.epicgames.com/documentation/en-us/unreal-engine/midi-in-unreal-engine)
+  - [MIDI Device Support for midi implementation](https://dev.epicgames.com/documentation/en-us/unreal-engine/midi-in-unreal-engine) (This implementation only works for MIDI controllers in real-time not reading from a file, please look at the MIDI_Manager.cpp class for reading from MIDI file functionality)
 
 ## Installation Tutorial
 - clone the repo
