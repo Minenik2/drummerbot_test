@@ -16,6 +16,11 @@ A midi feature to be able to import and play midi files
   - [Enhanced Input for keyboard implementation](https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine)
   - [MIDI Device Support for midi implementation](https://dev.epicgames.com/documentation/en-us/unreal-engine/midi-in-unreal-engine)
 
+## Installation Tutorial
+- clone the repo
+- open drummerbot_test.sln, with visual studio, make sure to download the necessary dependencies they can be found [here](https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine)
+- Run local windows debugger and it will open unreal engine
+- You can now edit the project or simply try out it's features by using the green play button
 
 ## MIDI_Manager.cpp explained
 (This explanation was run true chatgpt to make it sound more coherent)
