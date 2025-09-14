@@ -7,9 +7,10 @@ Drum models are made by me in blender and imported into unreal as FBX.
 - Pressing ASDF buttons to trigger kick/snare/cymbal/hi-hat
 - When the drum is triggered it plays an animation scaling itself up and down as feedback
   - It also plays it's corresponding .wav sound
+- Able to import and play midi files
 
 ### Currently working on
-A midi feature to be able to import and play midi files
+fleshing out the midi file import feature
 
 ### Using
 - Unreal engine 5.6
