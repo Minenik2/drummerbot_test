@@ -56,12 +56,12 @@ A standard MIDI file has three main sections:
   - Optimization where repeated events omit the status byte; the last one is reused.
 
 ### Code Breakdown
-- LoadMIDI()
+- `LoadMIDI()`
   - Loads file into memory.
   - Validates MThd header.
   - Reads format type, number of tracks, and division (ticks per quarter note).
   - Iterates through each track and calls ParseTrack().
-- ParseTrack()
+- `ParseTrack()`
   - Walks through all bytes in a track.
   - Reads delta-times using ReadVariableLength().
   - Updates absolute playback time (Time += Delta * SecsPerTick).
