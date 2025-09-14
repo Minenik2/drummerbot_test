@@ -33,6 +33,7 @@ void AMIDI_Manager::Tick(float DeltaTime)
 			if (Status == 0x90 && Event.Data2 > 0) // Note On
 			{
 				OnNoteOn(Event.Data1, Event.Data2);
+				UE_LOG(LogTemp, Log, TEXT("MIDI played note on"));
 			}
 			else if (Status == 0x80 || (Status == 0x90 && Event.Data2 == 0)) // Note Off
 			{
