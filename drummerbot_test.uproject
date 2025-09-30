@@ -25,5 +25,8 @@
 			"Name": "MIDIDevice",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
