@@ -6942,3 +6942,462 @@ Sampler Limit: 32
 [2025.10.02-15.27.14:279][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16534.507812
 [2025.10.02-15.27.15:279][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.02-15.27.15:279][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16535.173828, Update Interval: 339.808350
+[2025.10.02-15.31.02:218][251]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.02-15.31.13:397][106]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-15.31.13:407][106]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-15.31.55:765][333]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.02-15.32.02:816][839]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-15.32.02:826][839]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-15.33.54:365][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16938.593750
+[2025.10.02-15.33.54:539][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-15.33.54:539][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16938.761719, Update Interval: 312.074341
+[2025.10.02-15.39.55:086][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17309.134766
+[2025.10.02-15.39.55:249][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-15.39.55:249][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17309.289062, Update Interval: 312.892853
+[2025.10.02-15.45.51:555][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17675.238281
+[2025.10.02-15.45.51:729][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-15.45.51:729][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17675.408203, Update Interval: 310.197449
+[2025.10.02-15.51.42:782][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18038.412109
+[2025.10.02-15.51.42:956][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-15.51.42:956][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18038.582031, Update Interval: 340.868561
+[2025.10.02-15.53.28:917][134]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-15.58.14:682][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18445.765625
+[2025.10.02-15.58.14:832][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-15.58.14:832][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18445.912109, Update Interval: 321.323273
+[2025.10.02-16.04.15:424][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18820.816406
+[2025.10.02-16.04.15:582][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.04.15:582][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18820.964844, Update Interval: 334.454163
+[2025.10.02-16.10.45:982][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19226.373047
+[2025.10.02-16.10.46:148][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.10.46:148][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19226.539062, Update Interval: 317.573181
+[2025.10.02-16.16.54:216][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19609.085938
+[2025.10.02-16.16.54:379][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.16.54:379][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19609.244141, Update Interval: 303.156830
+[2025.10.02-16.18.37:028][780]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.02-16.18.46:927][474]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-16.18.46:937][474]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-16.22.33:844][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19951.570312
+[2025.10.02-16.22.34:015][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.22.34:015][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19951.724609, Update Interval: 328.521362
+[2025.10.02-16.24.45:056][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.02-16.24.45:064][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/test/0/NL/29WHJB48Y2QL843ROBA0LO_Auto5
+[2025.10.02-16.24.45:065][ 14]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/29WHJB48Y2QL843ROBA0LO_Auto5DC7E387B41E949BDDF0A99B2E841915C.tmp' to '../../../../projects/drummerbot_test/Saved/Autosaves/Game/__ExternalActors__/test/0/NL/29WHJB48Y2QL843ROBA0LO_Auto5.uasset'
+[2025.10.02-16.24.45:067][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/test/4/G1/I6O8FCQUNK4R4VLQQ8MF4P_Auto5
+[2025.10.02-16.24.45:067][ 14]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/I6O8FCQUNK4R4VLQQ8MF4P_Auto5E2F984564692D93AD67C70BFB34CF8E3.tmp' to '../../../../projects/drummerbot_test/Saved/Autosaves/Game/__ExternalActors__/test/4/G1/I6O8FCQUNK4R4VLQQ8MF4P_Auto5.uasset'
+[2025.10.02-16.24.45:068][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/test' took 0.048
+[2025.10.02-16.24.45:068][ 14]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2025.10.02-16.26.04:422][916]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.02-16.26.06:173][ 75]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.02-16.26.15:716][934]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.02-16.26.22:580][398]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-16.26.22:591][398]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.02-16.27.24:805][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-16.27.24:837][417]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/test/0/NL/29WHJB48Y2QL843ROBA0LO
+[2025.10.02-16.27.24:838][417]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/29WHJB48Y2QL843ROBA0LO0E261EBB483F98B1535691982E7B66CC.tmp' to '../../../../projects/drummerbot_test/Content/__ExternalActors__/test/0/NL/29WHJB48Y2QL843ROBA0LO.uasset'
+[2025.10.02-16.27.24:840][417]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/test/4/G1/I6O8FCQUNK4R4VLQQ8MF4P
+[2025.10.02-16.27.24:840][417]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/I6O8FCQUNK4R4VLQQ8MF4P8439B6AE4E903C89C3C386A16D91DF04.tmp' to '../../../../projects/drummerbot_test/Content/__ExternalActors__/test/4/G1/I6O8FCQUNK4R4VLQQ8MF4P.uasset'
+[2025.10.02-16.27.24:850][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.101 ms (total: 5.79 sec)
+[2025.10.02-16.27.24:883][417]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.02-16.27.24:883][417]LogContentValidation: Enabled validators:
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.02-16.27.24:883][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.02-16.27.24:884][417]AssetCheck: /Game/test Validating asset
+[2025.10.02-16.28.54:983][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20331.767578
+[2025.10.02-16.28.55:131][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.28.55:131][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20331.904297, Update Interval: 309.563904
+[2025.10.02-16.35.02:139][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20699.343750
+[2025.10.02-16.35.03:139][481]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.35.03:139][481]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20700.011719, Update Interval: 344.948273
+[2025.10.02-16.41.24:537][625]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21082.062500
+[2025.10.02-16.41.25:538][628]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.41.25:538][628]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21082.732422, Update Interval: 337.988220
+[2025.10.02-16.48.02:275][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21480.166016
+[2025.10.02-16.48.03:277][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.48.03:277][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21480.833984, Update Interval: 351.586060
+[2025.10.02-16.53.28:930][798]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-16.54.52:705][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21890.912109
+[2025.10.02-16.54.53:704][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-16.54.53:704][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21891.578125, Update Interval: 304.319580
+[2025.10.02-17.00.50:428][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22248.953125
+[2025.10.02-17.00.51:428][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.00.51:428][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22249.621094, Update Interval: 310.792572
+[2025.10.02-17.06.48:159][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22607.083984
+[2025.10.02-17.06.49:159][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.06.49:159][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22607.751953, Update Interval: 343.959473
+[2025.10.02-17.13.31:242][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23010.451172
+[2025.10.02-17.13.32:242][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.13.32:242][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23011.119141, Update Interval: 308.977936
+[2025.10.02-17.19.14:987][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23354.460938
+[2025.10.02-17.19.15:986][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.19.15:986][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23355.128906, Update Interval: 344.719391
+[2025.10.02-17.25.37:385][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23737.261719
+[2025.10.02-17.25.38:386][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.25.38:386][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23737.929688, Update Interval: 327.682739
+[2025.10.02-17.32.00:793][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24121.095703
+[2025.10.02-17.32.01:793][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.32.01:793][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24121.763672, Update Interval: 301.556458
+[2025.10.02-17.37.34:530][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24455.169922
+[2025.10.02-17.37.35:530][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.37.35:530][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24455.837891, Update Interval: 331.187469
+[2025.10.02-17.43.40:279][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24821.320312
+[2025.10.02-17.43.41:279][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.43.41:279][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24821.988281, Update Interval: 340.018921
+[2025.10.02-17.49.55:687][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25197.054688
+[2025.10.02-17.49.56:688][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.49.56:688][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25197.720703, Update Interval: 312.519318
+[2025.10.02-17.53.28:943][596]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-17.56.03:094][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25564.804688
+[2025.10.02-17.56.04:093][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-17.56.04:093][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25565.472656, Update Interval: 305.271759
+[2025.10.02-18.01.56:831][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25918.917969
+[2025.10.02-18.01.57:831][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.01.57:831][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25919.583984, Update Interval: 329.718933
+[2025.10.02-18.08.16:244][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26298.669922
+[2025.10.02-18.08.17:245][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.08.17:245][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26299.337891, Update Interval: 343.595093
+[2025.10.02-18.14.57:987][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26700.707031
+[2025.10.02-18.14.58:987][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.14.58:987][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26701.373047, Update Interval: 354.277771
+[2025.10.02-18.21.37:740][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27100.875000
+[2025.10.02-18.21.38:742][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.21.38:742][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27101.541016, Update Interval: 333.205353
+[2025.10.02-18.28.09:180][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27492.648438
+[2025.10.02-18.28.10:181][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.28.10:181][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27493.316406, Update Interval: 323.573730
+[2025.10.02-18.34.28:283][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27872.074219
+[2025.10.02-18.34.29:285][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.34.29:285][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27872.742188, Update Interval: 311.299774
+[2025.10.02-18.40.15:039][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28219.121094
+[2025.10.02-18.40.16:039][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.40.16:039][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28219.787109, Update Interval: 339.231537
+[2025.10.02-18.46.40:450][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28604.777344
+[2025.10.02-18.46.41:449][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.46.41:449][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28605.443359, Update Interval: 354.178894
+[2025.10.02-18.53.06:646][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28993.845703
+[2025.10.02-18.53.07:646][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.53.07:646][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28994.513672, Update Interval: 323.233124
+[2025.10.02-18.53.28:944][401]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.02-18.59.01:613][121]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.02-18.59.01:628][121]LogContentBundle: [test(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.02-18.59.01:628][121]LogWorldPartition: Display: GenerateStreaming for 'test' started...
+[2025.10.02-18.59.01:631][121]LogWorldPartition: Display: GenerateStreaming for 'test' took 3.149 ms (total: 61.559 ms)
+[2025.10.02-18.59.01:631][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.02-18.59.01:632][121]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test
+[2025.10.02-18.59.01:649][121]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.02-18.59.01:650][121]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 470 us (total: 18.073 ms)
+[2025.10.02-18.59.01:652][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020459s)
+[2025.10.02-18.59.01:652][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test.test to /Game/UEDPIE_0_test.test (0.020651s)
+[2025.10.02-18.59.01:685][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.02-18.59.01:687][121]LogChaosDD: Creating Chaos Debug Draw Scene for world test
+[2025.10.02-18.59.01:690][121]LogWorldPartition: ULevel::OnLevelLoaded(test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.02-18.59.01:690][121]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.02-18.59.01:690][121]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_test.test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.02-18.59.01:690][121]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.02-18.59.01:693][121]LogWorldPartition: Display: WorldPartition initialize took 3.046 ms (total: 627.977 ms)
+[2025.10.02-18.59.01:693][121]LogPlayLevel: PIE: World Init took: (0.005498s)
+[2025.10.02-18.59.01:694][121]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.10.02-18.59.01:694][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.02-18.59.01:694][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.02-18.59.01:695][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.02-18.59.01:695][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.02-18.59.01:695][121]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.02-18.59.01:695][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.02-18.59.01:695][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.02-18.59.01:695][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.02-18.59.01:695][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.02-18.59.01:695][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.02-18.59.01:695][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.02-18.59.01:698][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.02-18.59.01:750][121]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.02-18.59.01:750][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.02-18.59.01:750][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.02-18.59.01:750][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.02-18.59.01:751][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.10.02-18.59.01:751][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.10.02-18.59.01:755][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.10.02-18.59.01:755][121]LogInit: FAudioDevice initialized with ID 23.
+[2025.10.02-18.59.01:755][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.10.02-18.59.01:755][121]LogAudio: Display: Audio Device (ID: 23) registered with world 'test'.
+[2025.10.02-18.59.01:755][121]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.02-18.59.01:761][121]LogLoad: Game class is 'GameModeBase'
+[2025.10.02-18.59.01:761][121]LogWorld: Bringing World /Game/UEDPIE_0_test.test up for play (max tick rate 0) at 2025.10.02-20.59.01
+[2025.10.02-18.59.01:762][121]LogWorld: Bringing up level for play took: 0.000717
+[2025.10.02-18.59.01:765][121]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2025.10.02-18.59.01:792][121]LogStreaming: Display: FlushAsyncLoading(1268,1269,1270,1271,1272,1273,1274,1275,1276,1277,1278,1279,1280,1281,1282,1283): 16 QueuedPackages, 0 AsyncPackages
+[2025.10.02-18.59.01:799][121]LogTemp: MIDI file loaded, size: 223 bytes
+[2025.10.02-18.59.01:799][121]LogTemp: MIDI Format: 1, Tracks: 1, Division: 480
+[2025.10.02-18.59.01:799][121]LogTemp: Tempo change: 72.999985 BPM
+[2025.10.02-18.59.01:799][121]LogTemp: Parsed 44 MIDI events
+[2025.10.02-18.59.01:799][121]LogTemp: MIDI playback started
+[2025.10.02-18.59.01:801][121]PIE: Server logged in
+[2025.10.02-18.59.01:804][121]PIE: Play in editor total start time 0.177 seconds.
+[2025.10.02-18.59.01:805][121]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.01:805][121]LogTemp: MIDI played note on
+[2025.10.02-18.59.02:238][164]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.02:238][164]LogTemp: MIDI played note on
+[2025.10.02-18.59.02:657][214]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.02:657][214]LogTemp: MIDI played note on
+[2025.10.02-18.59.02:876][236]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.02:876][236]LogTemp: MIDI played note on
+[2025.10.02-18.59.03:086][260]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 51
+[2025.10.02-18.59.03:086][260]LogTemp: MIDI played note on
+[2025.10.02-18.59.03:306][286]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.03:306][286]LogTemp: MIDI played note on
+[2025.10.02-18.59.03:516][311]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.03:516][311]LogTemp: MIDI played note on
+[2025.10.02-18.59.03:727][336]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.03:727][336]LogTemp: MIDI played note on
+[2025.10.02-18.59.04:561][435]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-18.59.04:561][435]LogTemp: MIDI played note on
+[2025.10.02-18.59.04:780][461]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.04:780][461]LogTemp: MIDI played note on
+[2025.10.02-18.59.04:991][486]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.04:992][486]LogTemp: MIDI played note on
+[2025.10.02-18.59.05:204][511]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-18.59.05:204][511]LogTemp: MIDI played note on
+[2025.10.02-18.59.05:422][537]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.05:422][537]LogTemp: MIDI played note on
+[2025.10.02-18.59.05:638][559]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.05:639][559]LogTemp: MIDI played note on
+[2025.10.02-18.59.05:848][584]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-18.59.05:848][584]LogTemp: MIDI played note on
+[2025.10.02-18.59.06:274][634]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 49
+[2025.10.02-18.59.06:274][634]LogTemp: MIDI played note on
+[2025.10.02-18.59.06:896][708]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-18.59.06:896][708]LogTemp: MIDI played note on
+[2025.10.02-18.59.07:322][758]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.07:322][758]LogTemp: MIDI played note on
+[2025.10.02-18.59.07:529][782]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-18.59.07:529][782]LogTemp: MIDI played note on
+[2025.10.02-18.59.07:749][808]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-18.59.07:750][808]LogTemp: MIDI played note on
+[2025.10.02-18.59.07:961][833]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 41
+[2025.10.02-18.59.07:961][833]LogTemp: MIDI played note on
+[2025.10.02-18.59.08:181][858]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 41
+[2025.10.02-18.59.08:181][858]LogTemp: MIDI played note on
+[2025.10.02-18.59.09:946][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.02-18.59.09:946][ 59]LogWorld: BeginTearingDown for /Game/UEDPIE_0_test
+[2025.10.02-18.59.09:949][ 59]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-18.59.09:949][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-18.59.09:949][ 59]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_test.test
+[2025.10.02-18.59.09:950][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.02-18.59.09:956][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-18.59.09:987][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.02-18.59.09:987][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.10.02-18.59.09:987][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.10.02-18.59.09:990][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.10.02-18.59.10:000][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.02-18.59.10:056][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2025.10.02-18.59.28:729][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29374.037109
+[2025.10.02-18.59.28:905][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.59.28:905][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29374.203125, Update Interval: 308.966949
+[2025.10.02-19.02.25:493][134]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.02-19.02.25:505][134]LogContentBundle: [test(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.02-19.02.25:506][134]LogWorldPartition: Display: GenerateStreaming for 'test' started...
+[2025.10.02-19.02.25:508][134]LogWorldPartition: Display: GenerateStreaming for 'test' took 2.874 ms (total: 64.433 ms)
+[2025.10.02-19.02.25:509][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.02-19.02.25:509][134]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_test
+[2025.10.02-19.02.25:526][134]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.02-19.02.25:527][134]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 544 us (total: 18.617 ms)
+[2025.10.02-19.02.25:529][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020189s)
+[2025.10.02-19.02.25:530][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/test.test to /Game/UEDPIE_0_test.test (0.020418s)
+[2025.10.02-19.02.25:563][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.02-19.02.25:566][134]LogChaosDD: Creating Chaos Debug Draw Scene for world test
+[2025.10.02-19.02.25:568][134]LogWorldPartition: ULevel::OnLevelLoaded(test)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.02-19.02.25:568][134]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.02-19.02.25:568][134]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_test.test, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.02-19.02.25:568][134]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.02-19.02.25:571][134]LogWorldPartition: Display: WorldPartition initialize took 3.085 ms (total: 631.063 ms)
+[2025.10.02-19.02.25:571][134]LogPlayLevel: PIE: World Init took: (0.005205s)
+[2025.10.02-19.02.25:572][134]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.10.02-19.02.25:572][134]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.02-19.02.25:573][134]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.02-19.02.25:573][134]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.02-19.02.25:573][134]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.02-19.02.25:573][134]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.02-19.02.25:573][134]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.02-19.02.25:576][134]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.02-19.02.25:624][134]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.02-19.02.25:624][134]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.02-19.02.25:624][134]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.02-19.02.25:624][134]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.02-19.02.25:625][134]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.10.02-19.02.25:625][134]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.10.02-19.02.25:629][134]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.10.02-19.02.25:629][134]LogInit: FAudioDevice initialized with ID 24.
+[2025.10.02-19.02.25:629][134]LogAudio: Display: Audio Device (ID: 24) registered with world 'test'.
+[2025.10.02-19.02.25:629][134]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.10.02-19.02.25:629][134]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.02-19.02.25:634][134]LogLoad: Game class is 'GameModeBase'
+[2025.10.02-19.02.25:635][134]LogWorld: Bringing World /Game/UEDPIE_0_test.test up for play (max tick rate 0) at 2025.10.02-21.02.25
+[2025.10.02-19.02.25:635][134]LogWorld: Bringing up level for play took: 0.000659
+[2025.10.02-19.02.25:638][134]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.10.02-19.02.25:665][134]LogStreaming: Display: FlushAsyncLoading(1284,1285,1286,1287,1288,1289,1290,1291,1292,1293,1294,1295,1296,1297,1298,1299): 16 QueuedPackages, 0 AsyncPackages
+[2025.10.02-19.02.25:672][134]LogTemp: MIDI file loaded, size: 223 bytes
+[2025.10.02-19.02.25:672][134]LogTemp: MIDI Format: 1, Tracks: 1, Division: 480
+[2025.10.02-19.02.25:672][134]LogTemp: Tempo change: 72.999985 BPM
+[2025.10.02-19.02.25:673][134]LogTemp: Parsed 44 MIDI events
+[2025.10.02-19.02.25:673][134]LogTemp: MIDI playback started
+[2025.10.02-19.02.25:674][134]PIE: Server logged in
+[2025.10.02-19.02.25:677][134]PIE: Play in editor total start time 0.171 seconds.
+[2025.10.02-19.02.25:678][134]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.25:678][134]LogTemp: MIDI played note on
+[2025.10.02-19.02.26:116][168]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.26:116][168]LogTemp: MIDI played note on
+[2025.10.02-19.02.26:536][218]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.26:536][218]LogTemp: MIDI played note on
+[2025.10.02-19.02.26:753][240]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.26:754][240]LogTemp: MIDI played note on
+[2025.10.02-19.02.26:965][265]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 51
+[2025.10.02-19.02.26:965][265]LogTemp: MIDI played note on
+[2025.10.02-19.02.27:186][291]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.27:186][291]LogTemp: MIDI played note on
+[2025.10.02-19.02.27:398][316]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.27:398][316]LogTemp: MIDI played note on
+[2025.10.02-19.02.27:608][341]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.27:608][341]LogTemp: MIDI played note on
+[2025.10.02-19.02.28:447][440]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-19.02.28:447][440]LogTemp: MIDI played note on
+[2025.10.02-19.02.28:658][465]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.28:658][465]LogTemp: MIDI played note on
+[2025.10.02-19.02.28:874][490]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.28:874][490]LogTemp: MIDI played note on
+[2025.10.02-19.02.29:089][515]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-19.02.29:089][515]LogTemp: MIDI played note on
+[2025.10.02-19.02.29:306][538]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.29:306][538]LogTemp: MIDI played note on
+[2025.10.02-19.02.29:521][561]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.29:521][561]LogTemp: MIDI played note on
+[2025.10.02-19.02.29:732][584]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-19.02.29:733][584]LogTemp: MIDI played note on
+[2025.10.02-19.02.30:154][633]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 49
+[2025.10.02-19.02.30:154][633]LogTemp: MIDI played note on
+[2025.10.02-19.02.30:781][707]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-19.02.30:781][707]LogTemp: MIDI played note on
+[2025.10.02-19.02.31:196][756]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.31:196][756]LogTemp: MIDI played note on
+[2025.10.02-19.02.31:414][782]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 36
+[2025.10.02-19.02.31:414][782]LogTemp: MIDI played note on
+[2025.10.02-19.02.31:626][807]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 38
+[2025.10.02-19.02.31:626][807]LogTemp: MIDI played note on
+[2025.10.02-19.02.31:841][832]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 41
+[2025.10.02-19.02.31:841][832]LogTemp: MIDI played note on
+[2025.10.02-19.02.32:060][857]LogBlueprintUserMessages: [BP_MidiManager_C_UAID_7A79192CC14AF18E02_1684307863] 41
+[2025.10.02-19.02.32:060][857]LogTemp: MIDI played note on
+[2025.10.02-19.02.34:766][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.02-19.02.34:767][168]LogWorld: BeginTearingDown for /Game/UEDPIE_0_test
+[2025.10.02-19.02.34:769][168]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.02.34:769][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.02.34:769][168]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_test.test
+[2025.10.02-19.02.34:771][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.02-19.02.34:776][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.02.34:804][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.02-19.02.34:805][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.10.02-19.02.34:805][168]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.10.02-19.02.34:808][168]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.10.02-19.02.34:819][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.02-19.02.34:873][169]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.10.02-19.03.58:177][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.02-19.03.58:293][233]LogStall: Shutdown...
+[2025.10.02-19.03.58:293][233]LogStall: Shutdown complete.
+[2025.10.02-19.03.58:364][233]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.58:365][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.58:493][233]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.58:493][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.58:616][233]LogSlate: Window 'drummerbot_test - Unreal Editor' being destroyed
+[2025.10.02-19.03.59:131][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.02-19.03.59:168][233]Cmd: QUIT_EDITOR
+[2025.10.02-19.03.59:168][234]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.02-19.03.59:180][234]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.02-19.03.59:180][234]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.02-19.03.59:180][234]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.02-19.03.59:183][234]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:183][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:183][234]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/test.test
+[2025.10.02-19.03.59:203][234]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.02-19.03.59:204][234]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.02-19.03.59:205][234]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.02-19.03.59:225][234]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:225][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:229][234]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:229][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:232][234]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:232][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:236][234]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:236][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:239][234]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:239][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:243][234]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:243][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:247][234]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-19.03.59:247][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-19.03.59:250][234]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.02-19.03.59:251][234]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.02-19.03.59:256][234]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.02-19.03.59:283][234]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.02-19.03.59:283][234]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.02-19.03.59:283][234]LogAudio: Display: Audio Device unregistered from world 'test'.
+[2025.10.02-19.03.59:283][234]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.02-19.03.59:283][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.02-19.03.59:286][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.02-19.03.59:300][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.02-19.03.59:300][234]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.02-19.03.59:301][234]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.02-19.03.59:304][234]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.02-19.03.59:306][234]LogExit: Preparing to exit.
+[2025.10.02-19.03.59:359][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:366][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.03.59:367][234]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.02-19.04.00:018][234]LogEditorDataStorage: Deinitializing
+[2025.10.02-19.04.00:218][234]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.02-19.04.00:234][234]LogExit: Editor shut down
+[2025.10.02-19.04.00:237][234]LogExit: Transaction tracking system shut down
+[2025.10.02-19.04.00:420][234]LogExit: Object subsystem successfully closed.
+[2025.10.02-19.04.00:491][234]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.02-19.04.00:577][234]LogMemoryProfiler: Shutdown
+[2025.10.02-19.04.00:580][234]LogNetworkingProfiler: Shutdown
+[2025.10.02-19.04.00:580][234]LoadingProfiler: Shutdown
+[2025.10.02-19.04.00:581][234]LogTimingProfiler: Shutdown
+[2025.10.02-19.04.00:586][234]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.02-19.04.00:586][234]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.02-19.04.00:904][234]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.02-19.04.00:904][234]RenderDocPlugin: plugin has been unloaded.
+[2025.10.02-19.04.00:949][234]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.02-19.04.00:949][234]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1B2C47C-48F6-D63C-0601-52B2155FFFDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=977c324d471fcdb9ac1c54b16348b187%7C383057d04e1c41b19adf3d046541e9e2%7C49cf62ca-792b-439c-ba8d-1156daff485b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.02-19.04.01:493][234]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.02-19.04.01:493][234]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.02-19.04.01:494][234]LogXGEController: Cleaning working directory: C:/Users/Nikita/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.02-19.04.01:498][234]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.02-19.04.01:498][234]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.02-19.04.01:498][234]LogPakFile: Destroying PakPlatformFile
+[2025.10.02-19.04.01:863][234]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.02-19.04.01:909][234]LogExit: Exiting.
+[2025.10.02-19.04.01:933][234]Log file closed, 10/02/25 21:04:01
