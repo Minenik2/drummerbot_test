@@ -1444,3 +1444,184 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-14.33.34:953][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13393.901367, Update Interval: 341.293365
 [2025.10.15-14.34.25:671][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
 [2025.10.15-14.38.43:281][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.15-14.39.50:440][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13769.716797
+[2025.10.15-14.39.51:443][167]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.39.51:443][167]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13770.381836, Update Interval: 316.674103
+[2025.10.15-14.40.04:186][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-14.40.04:216][323]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.15-14.40.04:234][323]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_IK.CR_Sitri_IK]
+[2025.10.15-14.40.04:234][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.15-14.40.04:234][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_IK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset" SILENT=true
+[2025.10.15-14.40.04:323][323]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_IK
+[2025.10.15-14.40.04:324][323]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IK74597F744F0EF18CD68262A32B1528D6.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset'
+[2025.10.15-14.40.04:367][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.106 ms (total: 463.023 ms)
+[2025.10.15-14.40.04:454][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-14.40.04:454][323]LogContentValidation: Enabled validators:
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-14.40.04:454][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-14.40.04:454][323]AssetCheck: /Game/models/character/sitri/CR_Sitri_IK Validating asset
+[2025.10.15-14.40.11:897][876]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.15-14.40.11:993][877]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.15-14.45.49:075][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14128.256836
+[2025.10.15-14.45.50:075][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.45.50:075][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14128.923828, Update Interval: 338.647430
+[2025.10.15-14.48.29:441][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.15-14.52.06:255][408]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.15-14.52.15:092][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14514.330078
+[2025.10.15-14.52.16:093][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.52.16:093][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14514.996094, Update Interval: 309.721375
+[2025.10.15-14.54.39:858][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.15-14.54.39:860][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/test' took 0.038
+[2025.10.15-14.54.39:861][883]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.15-14.54.39:989][883]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_IK.CR_Sitri_IK]
+[2025.10.15-14.54.39:989][883]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.15-14.54.40:075][883]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/character/sitri/CR_Sitri_IK_Auto2
+[2025.10.15-14.54.40:075][883]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IK_Auto2B597626A4679737F51EFEAB5476A31FC.tmp' to '../../../../projects/drummerbot_test/Saved/Autosaves/Game/models/character/sitri/CR_Sitri_IK_Auto2.uasset'
+[2025.10.15-14.54.40:109][883]LogFileHelpers: Auto-saving content packages took 0.249
+[2025.10.15-14.56.16:846][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-14.56.16:875][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.15-14.56.16:875][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.15-14.56.16:875][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_IK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset" SILENT=true
+[2025.10.15-14.56.16:953][219]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_IK
+[2025.10.15-14.56.16:953][219]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IK9157A50442328ADD71FAABBB3116FA36.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset'
+[2025.10.15-14.56.16:995][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.677 ms (total: 611.701 ms)
+[2025.10.15-14.56.17:074][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-14.56.17:074][219]LogContentValidation: Enabled validators:
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-14.56.17:074][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-14.56.17:074][219]AssetCheck: /Game/models/character/sitri/CR_Sitri_IK Validating asset
+[2025.10.15-14.57.56:415][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14855.611328
+[2025.10.15-14.57.56:566][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-14.57.56:566][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14855.751953, Update Interval: 302.552582
+[2025.10.15-15.03.47:929][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15207.087891
+[2025.10.15-15.03.48:088][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.03.48:088][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15207.235352, Update Interval: 356.731476
+[2025.10.15-15.10.42:132][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15621.343750
+[2025.10.15-15.10.43:132][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.10.43:132][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15622.012695, Update Interval: 354.673309
+[2025.10.15-15.17.21:545][450]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16020.745117
+[2025.10.15-15.17.22:546][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-15.17.22:546][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16021.412109, Update Interval: 328.352905
+[2025.10.15-15.21.24:501][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-15.21.24:533][ 38]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.15-15.21.24:533][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.15-15.21.24:533][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_IK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset" SILENT=true
+[2025.10.15-15.21.24:642][ 38]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_IK
+[2025.10.15-15.21.24:643][ 38]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IKCBF715D144DE0450449C0C8ABEDE8150.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset'
+[2025.10.15-15.21.24:705][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.207 ms (total: 815.908 ms)
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: Enabled validators:
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-15.21.24:816][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-15.21.24:816][ 38]AssetCheck: /Game/models/character/sitri/CR_Sitri_IK Validating asset
+[2025.10.15-15.21.25:813][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.15-15.21.25:973][ 64]LogStall: Shutdown...
+[2025.10.15-15.21.25:973][ 64]LogStall: Shutdown complete.
+[2025.10.15-15.21.26:085][ 64]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:085][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:231][ 64]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:232][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:328][ 64]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:328][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:447][ 64]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:447][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:464][ 64]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:464][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:620][ 64]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:621][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:636][ 64]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:636][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:753][ 64]LogSlate: Window 'drummerbot_test - Unreal Editor' being destroyed
+[2025.10.15-15.21.26:920][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.10.15-15.21.26:951][ 64]Cmd: QUIT_EDITOR
+[2025.10.15-15.21.26:951][ 65]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.15-15.21.26:970][ 65]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.15-15.21.26:971][ 65]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.15-15.21.26:971][ 65]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.15-15.21.26:975][ 65]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.26:975][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.26:975][ 65]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/test.test
+[2025.10.15-15.21.27:007][ 65]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.15-15.21.27:007][ 65]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.15-15.21.27:011][ 65]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.15-15.21.27:017][ 65]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.27:017][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.27:024][ 65]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.27:024][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.27:031][ 65]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.27:031][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.27:036][ 65]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-15.21.27:037][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-15.21.27:043][ 65]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.15-15.21.27:043][ 65]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.15-15.21.27:051][ 65]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.15-15.21.27:052][ 65]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.15-15.21.27:053][ 65]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.15-15.21.27:053][ 65]LogAudio: Display: Audio Device unregistered from world 'test'.
+[2025.10.15-15.21.27:053][ 65]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.15-15.21.27:053][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.15-15.21.27:057][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.15-15.21.27:070][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.15-15.21.27:070][ 65]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.15-15.21.27:071][ 65]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.15-15.21.27:074][ 65]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.15-15.21.27:075][ 65]LogExit: Preparing to exit.
+[2025.10.15-15.21.27:156][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.10.15-15.21.27:158][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:158][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:159][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:160][ 65]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.15-15.21.27:465][ 65]LogEditorDataStorage: Deinitializing
+[2025.10.15-15.21.27:596][ 65]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.15-15.21.27:627][ 65]LogExit: Editor shut down
+[2025.10.15-15.21.27:635][ 65]LogExit: Transaction tracking system shut down
+[2025.10.15-15.21.27:892][ 65]LogExit: Object subsystem successfully closed.
+[2025.10.15-15.21.27:971][ 65]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.15-15.21.28:069][ 65]LogMemoryProfiler: Shutdown
+[2025.10.15-15.21.28:071][ 65]LogNetworkingProfiler: Shutdown
+[2025.10.15-15.21.28:071][ 65]LoadingProfiler: Shutdown
+[2025.10.15-15.21.28:072][ 65]LogTimingProfiler: Shutdown
+[2025.10.15-15.21.28:078][ 65]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.15-15.21.28:078][ 65]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.15-15.21.28:458][ 65]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.15-15.21.28:491][ 65]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.15-15.21.28:491][ 65]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5556DB4D-4930-3AF9-9DFC-2E8408A790DD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=977c324d471fcdb9ac1c54b16348b187%7C383057d04e1c41b19adf3d046541e9e2%7C49cf62ca-792b-439c-ba8d-1156daff485b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.15-15.21.29:059][ 65]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.15-15.21.29:059][ 65]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.15-15.21.29:059][ 65]RenderDocPlugin: plugin has been unloaded.
+[2025.10.15-15.21.29:062][ 65]LogXGEController: Cleaning working directory: C:/Users/Nikita/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.15-15.21.29:066][ 65]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.15-15.21.29:066][ 65]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.15-15.21.29:066][ 65]LogPakFile: Destroying PakPlatformFile
+[2025.10.15-15.21.29:460][ 65]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.15-15.21.29:530][ 65]LogExit: Exiting.
+[2025.10.15-15.21.29:558][ 65]Log file closed, 10/15/25 17:21:29
