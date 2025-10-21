@@ -1819,3 +1819,436 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.21-18.07.16:553][418]AssetCheck: /Game/models/character/sitri/anims/LS_sitri Validating asset
 [2025.10.21-18.07.20:516][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2025.10.21-18.07.21:877][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.21-18.08.16:120][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26256.902344
+[2025.10.21-18.08.17:119][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.08.17:119][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26257.568359, Update Interval: 346.263000
+[2025.10.21-18.10.39:909][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.21-18.10.53:543][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-18.10.53:575][724]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.21-18.10.53:589][724]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_IK.CR_Sitri_IK]
+[2025.10.21-18.10.53:589][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.21-18.10.53:589][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_IK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset" SILENT=true
+[2025.10.21-18.10.53:727][724]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_IK
+[2025.10.21-18.10.53:728][724]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IK87663DB44DD971763EA81CB3FDA49009.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset'
+[2025.10.21-18.10.53:771][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.132 ms (total: 2.52 sec)
+[2025.10.21-18.10.53:858][724]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-18.10.53:858][724]LogContentValidation: Enabled validators:
+[2025.10.21-18.10.53:858][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-18.10.53:858][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-18.10.53:859][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-18.10.53:859][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-18.10.53:859][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-18.10.53:859][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-18.10.53:859][724]AssetCheck: /Game/models/character/sitri/CR_Sitri_IK Validating asset
+[2025.10.21-18.10.54:864][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.10.21-18.12.49:482][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-18.12.49:514][401]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_IK] ([2] browsable assets)...
+[2025.10.21-18.12.49:532][401]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_IK.CR_Sitri_IK]
+[2025.10.21-18.12.49:532][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_IK]
+[2025.10.21-18.12.49:532][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_IK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset" SILENT=true
+[2025.10.21-18.12.49:670][401]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_IK
+[2025.10.21-18.12.49:671][401]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_IK59343CA749C2F280007757BEEC16857D.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_IK.uasset'
+[2025.10.21-18.12.49:712][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.146 ms (total: 2.75 sec)
+[2025.10.21-18.12.49:796][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-18.12.49:796][401]LogContentValidation: Enabled validators:
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-18.12.49:796][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-18.12.49:797][401]AssetCheck: /Game/models/character/sitri/CR_Sitri_IK Validating asset
+[2025.10.21-18.12.50:637][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.21-18.13.03:741][344]LogContentBrowser: Attempting asset rename: CR_Sitri -> CR_Sitri_FK
+[2025.10.21-18.13.03:898][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-18.13.03:898][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/models/character/sitri/anims/LS_sitri] ([1] browsable assets)...
+[2025.10.21-18.13.03:898][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/anims/LS_sitri]
+[2025.10.21-18.13.03:898][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/anims/LS_sitri" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/anims/LS_sitri.uasset" SILENT=true
+[2025.10.21-18.13.03:903][344]LogSavePackage: Moving output files for package: /Game/models/character/sitri/anims/LS_sitri
+[2025.10.21-18.13.03:904][344]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/LS_sitri2BC2FEA1431616411CC7D3BD1540B0B5.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/anims/LS_sitri.uasset'
+[2025.10.21-18.13.03:905][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/character/sitri/CR_Sitri_FK] ([2] browsable assets)...
+[2025.10.21-18.13.03:905][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_FK]
+[2025.10.21-18.13.03:905][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_FK" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_FK.uasset" SILENT=true
+[2025.10.21-18.13.03:932][344]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_FK
+[2025.10.21-18.13.03:932][344]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_FKC64E6DD941995A5A462D09A055866DEE.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_FK.uasset'
+[2025.10.21-18.13.03:971][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.730 ms (total: 2.82 sec)
+[2025.10.21-18.13.04:036][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.21-18.13.04:071][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.21-18.13.04:100][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.21-18.13.04:144][344]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.21-18.13.04:144][344]LogContentValidation: Enabled validators:
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-18.13.04:144][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-18.13.04:144][344]AssetCheck: /Game/models/character/sitri/anims/LS_sitri Validating asset
+[2025.10.21-18.13.04:144][344]AssetCheck: /Game/models/character/sitri/CR_Sitri_FK Validating asset
+[2025.10.21-18.13.04:213][344]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../projects/drummerbot_test/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.21-18.13.07:838][598]LogContentBrowser: Deferred new asset file creation: CR_Sitri_IK1
+[2025.10.21-18.13.07:849][598]LogContentBrowser: Creating deferred item: CR_Sitri_IK1
+[2025.10.21-18.13.07:869][599]LogContentBrowser: Renaming the item being created (Deferred Item: CR_Sitri_IK1).
+[2025.10.21-18.13.13:856][ 71]LogContentBrowser: Attempting asset rename: CR_Sitri_IK1 -> CR_Sitri_BOTH
+[2025.10.21-18.13.13:918][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.21-18.13.13:949][ 71]LogContentBrowser: End creating deferred item CR_Sitri_IK1
+[2025.10.21-18.13.19:555][477]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_BOTH.CR_Sitri_BOTH
+[2025.10.21-18.13.19:555][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.21-18.13.19:717][477]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.21-18.13.19:762][477]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.10.21-18.13.19:763][477]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.10.21-18.13.19:857][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.21-18.13.20:348][477]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(740)].
+[2025.10.21-18.13.26:068][752]LogSlate: Window 'CR_Sitri_BOTH' being destroyed
+[2025.10.21-18.13.53:622][969]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-18.13.55:873][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.21-18.13.55:887][ 72]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-18.14.10:874][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-18.14.10:908][693]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_BOTH] ([2] browsable assets)...
+[2025.10.21-18.14.10:922][693]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_BOTH.CR_Sitri_BOTH]
+[2025.10.21-18.14.10:922][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_BOTH]
+[2025.10.21-18.14.10:922][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_BOTH" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_BOTH.uasset" SILENT=true
+[2025.10.21-18.14.11:055][693]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_BOTH
+[2025.10.21-18.14.11:055][693]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_BOTH4CF40CCE45AA4923CE82FDBCFC065AE3.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_BOTH.uasset'
+[2025.10.21-18.14.11:101][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.345 ms (total: 3.05 sec)
+[2025.10.21-18.14.11:184][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-18.14.11:184][693]LogContentValidation: Enabled validators:
+[2025.10.21-18.14.11:184][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-18.14.11:184][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-18.14.11:184][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-18.14.11:185][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-18.14.11:185][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-18.14.11:185][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-18.14.11:185][693]AssetCheck: /Game/models/character/sitri/CR_Sitri_BOTH Validating asset
+[2025.10.21-18.14.11:219][693]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../projects/drummerbot_test/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.21-18.14.11:261][695]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-18.14.11:555][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.10.21-18.14.11:569][706]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-18.14.57:708][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26658.177734
+[2025.10.21-18.14.58:709][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.14.58:709][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26658.849609, Update Interval: 315.749390
+[2025.10.21-18.20.51:328][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27011.833984
+[2025.10.21-18.20.52:328][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.20.52:328][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27012.501953, Update Interval: 314.273499
+[2025.10.21-18.26.43:065][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27363.613281
+[2025.10.21-18.26.44:066][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.26.44:066][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27364.279297, Update Interval: 310.984833
+[2025.10.21-18.32.44:152][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27724.755859
+[2025.10.21-18.32.45:155][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.32.45:155][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27725.425781, Update Interval: 304.894562
+[2025.10.21-18.33.16:958][177]Cmd: MODE ROTGRID=0
+[2025.10.21-18.38.33:201][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28073.773438
+[2025.10.21-18.38.34:204][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.38.34:204][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28074.443359, Update Interval: 344.735870
+[2025.10.21-18.44.53:285][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28453.976562
+[2025.10.21-18.44.54:286][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.44.54:286][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28454.648438, Update Interval: 322.515320
+[2025.10.21-18.51.09:043][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28829.796875
+[2025.10.21-18.51.10:043][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.51.10:043][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28830.462891, Update Interval: 302.345642
+[2025.10.21-18.52.24:583][878]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-18.56.52:785][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29173.570312
+[2025.10.21-18.56.53:784][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-18.56.53:784][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29174.236328, Update Interval: 300.228882
+[2025.10.21-19.02.46:175][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29526.994141
+[2025.10.21-19.02.47:176][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.02.47:176][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29527.658203, Update Interval: 346.491882
+[2025.10.21-19.09.25:257][939]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29926.091797
+[2025.10.21-19.09.26:255][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.09.26:255][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29926.757812, Update Interval: 305.539124
+[2025.10.21-19.15.15:306][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30276.148438
+[2025.10.21-19.15.16:304][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.15.16:304][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30276.812500, Update Interval: 335.468628
+[2025.10.21-19.21.22:361][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30643.210938
+[2025.10.21-19.21.23:360][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.21.23:360][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30643.878906, Update Interval: 359.957886
+[2025.10.21-19.28.05:747][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31046.615234
+[2025.10.21-19.28.06:747][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.28.06:747][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31047.283203, Update Interval: 314.564667
+[2025.10.21-19.34.07:132][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31408.019531
+[2025.10.21-19.34.08:134][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.34.08:134][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31408.693359, Update Interval: 316.368286
+[2025.10.21-19.40.04:913][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31765.882812
+[2025.10.21-19.40.05:912][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.40.05:912][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31766.548828, Update Interval: 327.397064
+[2025.10.21-19.46.09:337][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32130.431641
+[2025.10.21-19.46.10:337][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.46.10:337][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32131.097656, Update Interval: 336.054565
+[2025.10.21-19.52.24:606][676]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-19.52.35:107][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32516.279297
+[2025.10.21-19.52.36:106][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.52.36:106][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32516.945312, Update Interval: 344.082153
+[2025.10.21-19.58.51:524][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32892.648438
+[2025.10.21-19.58.52:524][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-19.58.52:524][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32893.316406, Update Interval: 317.238068
+[2025.10.21-20.04.40:592][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33241.472656
+[2025.10.21-20.04.41:592][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.04.41:592][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33242.144531, Update Interval: 353.120514
+[2025.10.21-20.11.24:717][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33645.371094
+[2025.10.21-20.11.25:718][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.11.25:718][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33646.042969, Update Interval: 317.018341
+[2025.10.21-20.17.20:105][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34000.578125
+[2025.10.21-20.17.21:105][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.17.21:106][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34001.246094, Update Interval: 333.859070
+[2025.10.21-20.23.38:864][297]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34379.140625
+[2025.10.21-20.23.39:862][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.23.39:862][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34379.804688, Update Interval: 318.589447
+[2025.10.21-20.29.42:277][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34742.355469
+[2025.10.21-20.29.43:278][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.29.43:279][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34743.019531, Update Interval: 336.431763
+[2025.10.21-20.35.59:062][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35118.667969
+[2025.10.21-20.36.00:062][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.36.00:062][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35119.335938, Update Interval: 305.601379
+[2025.10.21-20.37.30:014][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.10.21-20.37.30:030][392]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-20.41.46:331][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35464.550781
+[2025.10.21-20.41.47:332][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.41.47:332][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35465.218750, Update Interval: 326.010925
+[2025.10.21-20.43.35:323][742]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-20.43.37:304][863]LogRigVM: Warning: Instruction[25] 'FRigUnit_SetTransform::Execute': 'Item 'Null(Leg2_Knee_PV_L_)' is not valid.'
+[2025.10.21-20.43.38:786][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.10.21-20.43.48:941][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.21-20.45.10:317][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.21-20.45.47:642][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.21-20.45.47:644][475]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/test' took 0.034
+[2025.10.21-20.45.47:644][475]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/character/sitri/CR_Sitri_BOTH] ([2] browsable assets)...
+[2025.10.21-20.45.47:658][475]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/models/character/sitri/CR_Sitri_BOTH.CR_Sitri_BOTH]
+[2025.10.21-20.45.47:658][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_BOTH]
+[2025.10.21-20.45.47:794][475]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/character/sitri/CR_Sitri_BOTH_Auto0
+[2025.10.21-20.45.47:794][475]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_BOTH_Auto0BBB4C1CE4EAC5735085FDA847903BEC7.tmp' to '../../../../projects/drummerbot_test/Saved/Autosaves/Game/models/character/sitri/CR_Sitri_BOTH_Auto0.uasset'
+[2025.10.21-20.45.47:829][475]LogFileHelpers: Auto-saving content packages took 0.186
+[2025.10.21-20.48.12:678][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35853.941406
+[2025.10.21-20.48.13:677][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.48.13:678][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35854.609375, Update Interval: 315.546143
+[2025.10.21-20.52.24:632][938]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-20.54.02:824][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36203.468750
+[2025.10.21-20.54.03:824][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-20.54.03:824][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36204.132812, Update Interval: 318.292786
+[2025.10.21-21.00.07:928][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36567.917969
+[2025.10.21-21.00.08:928][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.00.08:928][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36568.582031, Update Interval: 354.045227
+[2025.10.21-21.06.55:734][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36975.214844
+[2025.10.21-21.06.56:732][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.06.56:732][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36975.878906, Update Interval: 343.060394
+[2025.10.21-21.13.35:172][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37374.222656
+[2025.10.21-21.13.36:172][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.13.36:172][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37374.890625, Update Interval: 321.901917
+[2025.10.21-21.19.30:220][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37728.800781
+[2025.10.21-21.19.31:220][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.19.31:220][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37729.464844, Update Interval: 342.694183
+[2025.10.21-21.25.53:643][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38111.832031
+[2025.10.21-21.25.54:645][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.25.54:645][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38112.500000, Update Interval: 316.815094
+[2025.10.21-21.32.05:102][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38482.835938
+[2025.10.21-21.32.12:769][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.32.12:769][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38490.160156, Update Interval: 322.544647
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000: request has been successfully processed. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEAB52F97-400A-67BE-47BD-099FAC1A8837%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 7.15s
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Date: Tue, 21 Oct 2025 21:32:43 GMT
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Type: text/plain
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Length: 81
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Connection: keep-alive
+[2025.10.21-21.32.46:444][201]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Server: eos-gateway
+[2025.10.21-21.32.51:112][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64, HTTP code: 503, content length: 81, actual payload size: 81, elapsed: 0.14s
+[2025.10.21-21.32.51:112][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Date: Tue, 21 Oct 2025 21:32:48 GMT
+[2025.10.21-21.32.51:112][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Type: text/plain
+[2025.10.21-21.32.51:112][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Length: 81
+[2025.10.21-21.32.51:112][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Connection: keep-alive
+[2025.10.21-21.32.51:113][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header X-Epic-Correlation-Id: EOS-_pbmCgQrl0u9aCakGEe99g-1Ga-PiCFHU-E8ZZib-I-kA
+[2025.10.21-21.32.51:113][215]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Server: eos-gateway
+[2025.10.21-21.32.51:113][215]LogEOSSDK: Warning: LogHttp: Lockout of 2.485977s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64
+[2025.10.21-21.32.53:782][223]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64
+[2025.10.21-21.32.54:445][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000: request has been successfully processed. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64, HTTP code: 503, content length: 162, actual payload size: 162, elapsed: 0.50s
+[2025.10.21-21.32.54:445][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Date: Tue, 21 Oct 2025 21:32:51 GMT
+[2025.10.21-21.32.54:445][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Type: text/html
+[2025.10.21-21.32.54:445][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Content-Length: 162
+[2025.10.21-21.32.54:446][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Connection: keep-alive
+[2025.10.21-21.32.54:446][225]LogEOSSDK: Warning: LogHttp: 000002D36472F000 Response Header Server: eos-gateway
+[2025.10.21-21.32.54:446][225]LogEOSSDK: Warning: LogHttp: Lockout of 5.440351s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64
+[2025.10.21-21.33.00:113][242]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64
+[2025.10.21-21.33.06:115][260]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=1FC92DCA4F8DDA3A6A7C90932B0CCC64
+[2025.10.21-21.38.32:547][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38869.804688
+[2025.10.21-21.38.33:548][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.38.33:548][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38870.468750, Update Interval: 319.999390
+[2025.10.21-21.44.48:988][368]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39245.882812
+[2025.10.21-21.44.49:988][371]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.44.49:988][371]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39246.550781, Update Interval: 300.838654
+[2025.10.21-21.50.21:730][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39578.316406
+[2025.10.21-21.50.22:729][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-21.50.22:730][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39578.984375, Update Interval: 329.131134
+[2025.10.21-21.52.24:661][735]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-21.56.51:184][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39967.386719
+[2025.10.21-21.56.52:182][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 39968.050781
+[2025.10.21-21.56.52:187][537]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1237667838
+[2025.10.21-21.56.52:187][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39968.050781, Update Interval: 317.739807
+[2025.10.21-22.02.09:943][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40285.785156
+[2025.10.21-22.02.10:942][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.02.10:942][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40286.449219, Update Interval: 347.824951
+[2025.10.21-22.08.02:580][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40637.500000
+[2025.10.21-22.08.03:580][889]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.08.03:580][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40638.164062, Update Interval: 313.231598
+[2025.10.21-22.13.22:354][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40956.832031
+[2025.10.21-22.13.23:353][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.13.23:353][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40957.500000, Update Interval: 324.221924
+[2025.10.21-22.18.59:212][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41293.324219
+[2025.10.21-22.19.00:215][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.19.00:215][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41293.992188, Update Interval: 359.016693
+[2025.10.21-22.25.29:786][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41683.550781
+[2025.10.21-22.25.30:785][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.25.30:785][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41684.214844, Update Interval: 349.388702
+[2025.10.21-22.32.12:365][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42085.683594
+[2025.10.21-22.32.13:366][236]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.32.13:366][236]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42086.351562, Update Interval: 306.537079
+[2025.10.21-22.37.50:554][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42423.496094
+[2025.10.21-22.37.51:554][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.37.51:555][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42424.164062, Update Interval: 333.062531
+[2025.10.21-22.43.59:092][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42791.847656
+[2025.10.21-22.44.00:094][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.44.00:094][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42792.511719, Update Interval: 303.744629
+[2025.10.21-22.49.57:977][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43150.460938
+[2025.10.21-22.49.58:979][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.49.58:979][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43151.132812, Update Interval: 349.368561
+[2025.10.21-22.52.24:684][868]LogDerivedDataCache: C:/Users/Nikita/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-22.56.34:869][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43547.164062
+[2025.10.21-22.56.35:874][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-22.56.35:874][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43547.832031, Update Interval: 321.466095
+[2025.10.21-23.02.49:749][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43921.820312
+[2025.10.21-23.02.50:750][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-23.02.50:750][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43922.488281, Update Interval: 349.355743
+[2025.10.21-23.09.11:963][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44303.703125
+[2025.10.21-23.09.12:967][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-23.09.12:967][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44304.367188, Update Interval: 341.337311
+[2025.10.21-23.14.38:643][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-23.14.38:675][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/character/sitri/CR_Sitri_BOTH] ([2] browsable assets)...
+[2025.10.21-23.14.38:675][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/character/sitri/CR_Sitri_BOTH]
+[2025.10.21-23.14.38:675][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/character/sitri/CR_Sitri_BOTH" FILE="../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_BOTH.uasset" SILENT=true
+[2025.10.21-23.14.38:800][206]LogSavePackage: Moving output files for package: /Game/models/character/sitri/CR_Sitri_BOTH
+[2025.10.21-23.14.38:800][206]LogSavePackage: Moving '../../../../projects/drummerbot_test/Saved/CR_Sitri_BOTH8743418541B9150A47DE38ABAD74E592.tmp' to '../../../../projects/drummerbot_test/Content/models/character/sitri/CR_Sitri_BOTH.uasset'
+[2025.10.21-23.14.38:845][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.626 ms (total: 3.25 sec)
+[2025.10.21-23.14.38:931][206]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-23.14.38:931][206]LogContentValidation: Enabled validators:
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-23.14.38:931][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-23.14.38:932][206]AssetCheck: /Game/models/character/sitri/CR_Sitri_BOTH Validating asset
+[2025.10.21-23.14.45:179][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.21-23.14.45:311][697]LogStall: Shutdown...
+[2025.10.21-23.14.45:311][697]LogStall: Shutdown complete.
+[2025.10.21-23.14.45:403][697]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2025.10.21-23.14.45:414][697]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2025.10.21-23.14.45:588][697]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.45:588][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.45:614][697]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.45:614][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.45:767][697]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.45:768][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.45:788][697]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.45:788][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:071][697]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:071][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:086][697]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:086][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:236][697]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:236][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:255][697]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:256][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:283][697]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:283][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:419][697]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:419][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:434][697]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:434][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:533][697]LogSlate: Window 'drummerbot_test - Unreal Editor' being destroyed
+[2025.10.21-23.14.46:890][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.10.21-23.14.46:911][697]Cmd: QUIT_EDITOR
+[2025.10.21-23.14.46:912][697]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.21-23.14.46:926][698]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.21-23.14.46:930][698]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.21-23.14.46:930][698]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.21-23.14.46:937][698]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:939][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:940][698]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/test.test
+[2025.10.21-23.14.46:976][698]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.21-23.14.46:976][698]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.21-23.14.46:984][698]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.21-23.14.46:994][698]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:994][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.46:998][698]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.46:998][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:002][698]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:002][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:005][698]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:005][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:010][698]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:010][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:013][698]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:013][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:017][698]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:017][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:021][698]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:021][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:025][698]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-23.14.47:025][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-23.14.47:031][698]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.21-23.14.47:032][698]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.21-23.14.47:038][698]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.21-23.14.47:042][698]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.21-23.14.47:042][698]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.21-23.14.47:042][698]LogAudio: Display: Audio Device unregistered from world 'test'.
+[2025.10.21-23.14.47:043][698]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.21-23.14.47:044][698]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.21-23.14.47:048][698]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.21-23.14.47:064][698]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.21-23.14.47:065][698]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.21-23.14.47:068][698]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.21-23.14.47:072][698]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.21-23.14.47:073][698]LogExit: Preparing to exit.
+[2025.10.21-23.14.47:143][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.21-23.14.47:147][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:147][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:148][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:148][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:148][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:148][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:149][698]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:150][698]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.21-23.14.47:881][698]LogEditorDataStorage: Deinitializing
+[2025.10.21-23.14.48:162][698]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.21-23.14.48:213][698]LogExit: Editor shut down
+[2025.10.21-23.14.48:227][698]LogExit: Transaction tracking system shut down
+[2025.10.21-23.14.48:770][698]LogExit: Object subsystem successfully closed.
+[2025.10.21-23.14.48:793][698]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.21-23.14.48:926][698]LogMemoryProfiler: Shutdown
+[2025.10.21-23.14.48:930][698]LogNetworkingProfiler: Shutdown
+[2025.10.21-23.14.48:930][698]LoadingProfiler: Shutdown
+[2025.10.21-23.14.48:932][698]LogTimingProfiler: Shutdown
+[2025.10.21-23.14.48:942][698]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.21-23.14.48:942][698]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.21-23.14.49:411][698]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.21-23.14.49:424][698]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.21-23.14.49:459][698]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.21-23.14.49:459][698]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FCEC865-45DA-963B-1490-16803FA9F24B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=977c324d471fcdb9ac1c54b16348b187%7C383057d04e1c41b19adf3d046541e9e2%7C49cf62ca-792b-439c-ba8d-1156daff485b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.21-23.14.50:036][698]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.21-23.14.50:037][698]RenderDocPlugin: plugin has been unloaded.
+[2025.10.21-23.14.50:042][698]LogXGEController: Cleaning working directory: C:/Users/Nikita/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.21-23.14.50:048][698]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.21-23.14.50:048][698]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.21-23.14.50:049][698]LogPakFile: Destroying PakPlatformFile
+[2025.10.21-23.14.50:454][698]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.21-23.14.50:517][698]LogExit: Exiting.
+[2025.10.21-23.14.50:556][698]Log file closed, 10/22/25 01:14:50
