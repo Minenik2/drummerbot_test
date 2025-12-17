@@ -28,6 +28,10 @@
 		{
 			"Name": "LearningAgents",
 			"Enabled": true
+		},
+		{
+			"Name": "Tensorboard",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
