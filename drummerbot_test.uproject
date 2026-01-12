@@ -32,6 +32,14 @@
 		{
 			"Name": "Tensorboard",
 			"Enabled": true
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimatorKit",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
